@@ -290,11 +290,11 @@ div.cave-grid > img[src$="nestingbanner.png"] {
     height: auto;
     max-width: 100%;
     object-fit: contain;}
-a[href$="unsorted.php?id=599551"]>div.cave-grid>img{
+a[href$="unsorted.php?id=534376"]>div.cave-grid>img{
 content: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz-xGbNqMS-ZeodfyFf6YDmpGO6FTbHSEzhgsZZtjzxJh2zMdGOR0NKLnO&s=10')!important;
 width: 12px;
 height: 12px;}
-a[href*="lionoverview.php?id=599551"]>div.cave-grid>img {
+a[href*="lionoverview.php?id=534376"]>div.cave-grid>img {
 content: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nNz0CmjbupJD1v7TlZ0kzL0COs_l4d3QK3DsYtacgFQOj7F9XIi0tw&s=10')!important;
 width: 75px;
 height: 75px; }
