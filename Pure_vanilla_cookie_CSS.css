@@ -176,16 +176,11 @@ button.channelSwitcher.active {
     box-shadow: none !important;
 }
 
-.s-chat-message:nth-child(even) {
-    background: #F6F8BF !important;
-    border: none !important;
-}
-
+.s-chat-message:nth-child(even),
 .s-chat-message:nth-child(odd) {
     background: #F7E5C4 !important;
     border: none !important;
 }
-
 .feature {
 background: #e9bb68 !important;
 color: #CE935F !important;
