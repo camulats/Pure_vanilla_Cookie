@@ -137,12 +137,12 @@ color: #CE935F !important;}
 .progress div {
 color: #CE935F !important; }
 .progress {
-color: #CE935F !important;
+color: #F7E5C4 !important;
 border-radius: 10px !important;  }
 
 button#label_currentChannel {
     border: none !important;
-    background: #CE935F !important;
+    background: #F7E5C4 !important;
 }
 
 div#chatMessageContainer {
@@ -177,11 +177,13 @@ button.channelSwitcher.active {
 }
 
 .s-chat-message:nth-child(even) {
-    background: #F0D298 !important;
+    background: #F6F8BF !important;
+    border: none !important;
 }
 
 .s-chat-message:nth-child(odd) {
     background: #F7E5C4 !important;
+    border: none !important;
 }
 
 .feature {
