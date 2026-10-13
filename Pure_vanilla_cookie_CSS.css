@@ -7,15 +7,15 @@
 }
 
 body {
-	background: url('https://i.pinimg.com/1200x/3b/c4/c7/3bc4c76e8d933679fdf8695a7d62f97c.jpg') center center fixed;
+	background: url('https://static.wikia.nocookie.net/cookierunkingdom/images/a/ac/Odyssey_plaza2.png/revision/latest?cb=20220504210831') center center fixed;
 	position: relative;
 	background-repeat: no-repeat;
 	background-size: cover !important;
 	font-family: 'Cherry Bomb One', sans-serif;
-	color: #BF793B;
+	color: #CE935F;
 }
 body * {
-	color: #BF793B;
+	color: #CE935F;
 }
 ::-webkit-scrollbar {
 width: 10px;
@@ -23,55 +23,55 @@ height: 7px; }
 ::-webkit-scrollbar-track {
 background: #F2F5A6;}
 ::-webkit-scrollbar-thumb {
-background: #E7B458; } 
+background: #F0D298; } 
 
 h1 {
-	color: #BF793B;
+	color: #CE935F;
 	font-size: 30px;
 	text-align: center;
-          font-family: 'Google Sans Flex', sans-serif;
+          font-family: 'Cherry Bomb One', sans-serif;
 }
 h3 {
-color: #BF793B !important;
+color: #CE935F !important;
 font-size: 18px;}
 
 a:link,
 a:visited {
-color: #BF793B !important;
+color: #CE935F !important;
 background: none !important; }
 
 a:hover {
-color: #7C4E26!important; }
+color: #BF793B!important; }
 
 .container.main {
-background: rgba(242, 245, 166, 0.8);
+background: rgba(246, 248, 191, 0.6);
 border: none;
 box-shadow: none;
-border-radius: 5px; }
+border-radius: 20px; }
 .col-md-9 {
 background: none; } 
 
 .topbar {
-	background: #E7B458;
+	background: #F0D298;
 	border: none;
 	border-top: none;
-	color: #BF793B;
+	color: #CE935F;
 }
 .navbar {
-	background: #E7B458 ;
+	background: #F0D298 ;
 	border-bottom: none;
-	color:#BF793B;
-	border-radius: 0px
+	color:#CE935F;
+	border-radius: 20px
 }
 .navbar li a {
-	color: #BF793B !important
+	color: #CE935F !important
 }
 .navbar li a:hover {
-background: #BF793B !important;
-color: #7C4E26 !important; }
+background: #E7B458 !important;
+color: #CE935F !important; }
      .navbar-toggle {
 border: none !important;
-background: #BF793B !important;
+background: #E7B458 !important;
 }
 
 .navbar-collapse {
@@ -87,158 +87,151 @@ border-top: none !important;
     float: right !important;
 }
  .breadcrumb {
-	background: #E7B458 !important;
+	background: #F0D298 !important;
         border: none;
-	border-radius: px
+	border-radius: 10px
 }
 .breadcrumb .active {
-	color: #BF793B
+	color: #CE935F
+        border: 10px
 }
 
 .alert-warning {
-background: #BF793B !important;
-color: #7C4E26 !important;}
-.alert-danger {
-background: #BF793B !important;
-color: #7C4E26 !important;}
-.alert-success {
-background: #BF793B !important;
-color: #7C4E26 !important;}
-
-
-div#commentBox {
 background: #E7B458 !important;
-border: none !important;
-border-radius: 0px !important;
-color: #7C4E26 !important;}
-
+color: #CE935F !important;}
+.alert-danger {
+background: #E7B458 !important;
+color: #CE935F !important;}
+.alert-success {
+background: #E7B458 !important;
+color: #CE935F !important;}
 
 .progress-bar {
 background: #F7E5C4  !important; 
-border-radius: 0px !important; }
+border-radius: 10px !important; }
 
 .progress-bar-warning { 
-background: #B88428  !important;
-color: #7C4E26 !important;}
+background: #CE935F  !important;
+color: #CE935F !important;}
 .progress-bar-danger { 
 background: #F7E5C4 !important;
-color: #7C4E26 !important;}
+color: #CE935F !important;}
 .progress-bar-success { 
 background: #F0CE8D  !important;
-color: #7C4E26 !important;}
+color: #CE935F !important;}
 
 div#commentBox {
-background: #E7B458 !important;
+background: #F6DCA8   !important;
 border: none !important;
-border-radius: 0px !important;
-color: #7C4E26 !important;}
+border-radius: 15px !important;
+color: #CE935F !important;}
 
 #comment {
-    color: #E7B58B  !important;
+    color: #CE935F  !important;
 }
 
 #comment::placeholder {
-    color: #E7B58B  !important;
+    color: #CE935F  !important;
 }
 
 .progress div {
-color: #7C4E26 !important; }
+color: #CE935F !important; }
 .progress {
-color: #B88428 !important;
-border-radius: 0px !important;  }
+color: #CE935F !important;
+border-radius: 10px !important;  }
 
 button#label_currentChannel {
 border: none !important;
-background: #B88428 !important; }
+background: #CE935F !important; }
 
 div#chatMessageContainer {
 border: none !important; }
 
 .s-chat-message_timestamp {
-color: #B88428 !important; }
+color: #CE935F !important; }
 
 .s-chat-sidebar #fraChatChannelMenu,
 button.channelSwitcher, button.channelSwitcher.active {
-    background: #E7B58B !important;
-color: #7C4E26 !important;	
+background: #F7E5C4 !important;
+color: #CE935F !important;
 border: none !important;
 border-radius: 0px !important;
 box-shadow: none !important; }
 
 .s-chat-message__pinned {
-background-color: #B88428 !important;
-color: #7C4E26 !important;
+background-color: #F6F8BF !important;
+color: #CE935F !important;
 border: none !important; }
 
 .s-chat-message {
-background: #E7B58B !important;
-color: #7C4E26 !important;
-border-bottom: 1px solid #7C4E26 !important; }
+background: #F7E5C4 !important;
+color: #CE935F !important;
+border-bottom: 10px solid #CE935F !important; }
 
-.s-chat-message:nth-child(even) {
-background: #CFA27D !important;
-border: none !important; }
-.s-chat-message:nth-child(odd) {
-background: #694220 !important;
-border: none !important; }
+.s-chat-message(even) {
+background: #F6F8BF !important;
+border: 10px !important; }
+.s-chat-message(odd) {
+background: #F0D298 !important;
+border: 10px !important; }
 
 .feature {
-background: #E7B58B !important;
-color: #7C4E26 !important;
-border: 3px double #B88428 !important;
-border-radius: 0px !important;  }
+background: #e9bb68 !important;
+color: #CE935F !important;
+border: 3px double #e9bb68 !important;
+border-radius: 10px !important;  }
 
 div.left {
-background: #E7B58B !important;
-color: #B88428 !important;
+background: #F0D298 !important;
+color: #CE935F !important;
 border: none !important;
-border-radius: 0px !important; }
+border-radius: 10px !important; }
 
 
 .xsmall {
 font-size: 14px !important; }
 
 #player .text-muted {
-    color: #7C4E26;
+    color: #CE935F;
 }
 .table {
 background: rgba(242, 245, 166, 0.5) ;
 border: none !important;
 border-collapse: separate;
-border-radius: 0px; }
+border-radius: 10px; }
 
 .top, .bottom, th {
 background: #F0CE8D !important;
-color: #B88428 !important;
+color: #CE935F !important;
 border: none !important;
-border-radius: 0px !important; }
+border-radius: 10px !important; }
 
 .bottom a:visited, .bottom a {
 text-decoration: none !important;}
 
 .table .left {
 background: #F0CE8D;
-border-radius: 0px !important; }
+border-radius: 10px !important; }
 
 .inner-table .left {
-background: #E7B458 !important;
-border-radius: 0px !important;  }
+background: #F0C477 !important;
+border-radius: 10px !important;  }
 
 .inner-table .right {
 background: #F0CE8D !important;
-border-radius: 0px !important; 
-color: #B88428 !important; } 
+border-radius: 10px !important; 
+color: #CE935F !important; } 
 
 .right_odd {
 background: none !important; }  
     
 div#lion_image {
 opacity: 1.0;
-border-radius: 0%;
+border-radius: 100%;
 overflow: hidden; }   
 table#player img {
 opacity: 1.0;
-border-radius: 0%; }
+border-radius: 100%; }
 
 div.container.main > div:nth-child(1) > nav > div.navbar-header > a > img {
     display: none !important;}
@@ -258,34 +251,51 @@ div.container.main > div:nth-child(1) > nav > div.navbar-header > a::after {
 
 input, textarea, select, button.button,
 a.btn.btn-default.button {
-background: #BF793B !important;
+background: #e9bb68  !important;
 border: none !important;
-border-radius: 0px !important;
-color: #7C4E26 !important;
+border-radius: 10px !important;
+color: #CE935F !important;
 text-shadow: none !important; }
 
 .cave-grid,
 .mound-grid {
-background: #E7B458 !important;
-color: #BF793B !important;
+background: #e9bb68 !important;
+color: #CE935F !important;
 border: none !important;
-border-radius: 0px !important; }
+border-radius: 10px !important; }
 
-div.cave-grid>img {
-content: url('https://cdn.gosu-noob.com/static/img/1/2021/10/Pure-Vanilla-Cookie-Toppings-Cookie-Run-Kingdom-640x360.webp')!important;
-width: 240px;
-height: 120px; }
+div.cave-grid > img[src$="nestingbanner.png"] {
+    content: url("https://static.wikia.nocookie.net/cookierunkingdom/images/5/55/Castle_in_the_sky_cutscene_5.jpg/revision/latest?cb=20240921161756") !important;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    object-fit: contain;}
+a[href$="unsorted.php?id=534376"]>div.cave-grid>img{
+content: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz-xGbNqMS-ZeodfyFf6YDmpGO6FTbHSEzhgsZZtjzxJh2zMdGOR0NKLnO&s=10')!important;
+width: 12px;
+height: 12px;}
+a[href*="lionoverview.php?id=534376"]>div.cave-grid>img {
+content: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nNz0CmjbupJD1v7TlZ0kzL0COs_l4d3QK3DsYtacgFQOj7F9XIi0tw&s=10')!important;
+width: 75px;
+height: 75px; }
+
+div.cave-grid > img {
+    content: url("https://static.wikia.nocookie.net/cookierunkingdom/images/b/b5/Loading_oasis_002.png/revision/latest?cb=20250213084709") !important;
+    width:250px !important;
+    height: 130px !important;
+    object-fit: cover;
+}
 
 .dynastylist .left {
-    background-color: #E7B458 !important;
+    background-color: #e9bb68  !important;
 }
 .dynastylist .left h3,
 .dynastylist .left a {
-    color: #BF793B !important;
+    color: #CE935F !important;
 }
 .breadcrumb::after {
 content: "Template by Katie, CSS by Cam #583285";
-color: #BF793B;
+color: #CE935F;
 position: absolute;
 right: 13%;
 z-index: 100; }
