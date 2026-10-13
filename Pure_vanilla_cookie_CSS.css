@@ -92,8 +92,8 @@ border-top: none !important;
 	border-radius: 10px
 }
 .breadcrumb .active {
-	color: #CE935F
-        border: 10px
+	color: #CE935F;
+        border: 10px;
 }
 
 .alert-warning {
