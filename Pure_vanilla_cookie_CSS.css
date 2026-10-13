@@ -142,38 +142,48 @@ border-radius: 10px !important;  }
 
 button#label_currentChannel {
 border: none !important;
-background: #CE935F !important; }
+background: #CE935F !important;
+}
 
 div#chatMessageContainer {
-border: none !important; }
+border: none !important;
+}
 
 .s-chat-message_timestamp {
-color: #CE935F !important; }
+color: #CE935F !important;
+}
 
 .s-chat-sidebar #fraChatChannelMenu,
-button.channelSwitcher, button.channelSwitcher.active {
+button.channelSwitcher,
+button.channelSwitcher.active {
 background: #F7E5C4 !important;
 color: #CE935F !important;
 border: none !important;
 border-radius: 0px !important;
-box-shadow: none !important; }
+box-shadow: none !important;
+}
 
 .s-chat-message__pinned {
 background-color: #F6F8BF !important;
 color: #CE935F !important;
-border: none !important; }
+border: none !important;
+}
 
 .s-chat-message {
 background: #F7E5C4 !important;
 color: #CE935F !important;
-border-bottom: 10px solid #CE935F !important; }
+border-bottom: 10px solid #CE935F !important;
+}
 
 .s-chat-message(even) {
 background: #F6F8BF !important;
-border: 10px !important; }
+color: #CE935F !important;
+}
+
 .s-chat-message(odd) {
 background: #F0D298 !important;
-border: 10px !important; }
+color: #CE935F !important;
+}
 
 .feature {
 background: #e9bb68 !important;
