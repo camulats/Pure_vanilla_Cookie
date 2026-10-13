@@ -107,18 +107,29 @@ color: #CE935F !important;}
 color: #CE935F !important;}
 
 .progress-bar {
-background: #F7E5C4  !important; 
-border-radius: 10px !important; }
+background-color: #F0D298 !important;
+color: #CE935F !important;
+border: none !important;
+border-radius: 10px !important;
+box-shadow: none !important;
+}
 
-.progress-bar-warning { 
-background: #CE935F  !important;
-color: #CE935F !important;}
-.progress-bar-danger { 
-background: #F7E5C4 !important;
-color: #CE935F !important;}
-.progress-bar-success { 
-background: #F0CE8D  !important;
-color: #CE935F !important;}
+.progress-bar-warning {
+background-color: #E7B458 !important;
+color: #CE935F !important;
+}
+.progress-bar-danger {
+background-color: #E9BB68 !important;
+color: #CE935F !important;
+}
+.progress-bar-success {
+background-color: #F0CE8D !important;
+color: #CE935F !important;
+}
+.progress-bar-info {
+background-color: #F7E5C4 !important;
+color: #CE935F !important;
+}
 
 div#commentBox {
 background: #F6DCA8   !important;
@@ -308,6 +319,32 @@ color: #CE935F;
 position: absolute;
 right: 13%;
 z-index: 100; }
+
+.feature,
+.panel,
+.panel-heading,
+.panel-body,
+.well,
+.list-group-item {
+background-color: #F7E5C4 !important;
+color: #CE935F !important;
+border-color: #F0D298 !important;
+box-shadow: none !important;
+}
+.feature *,
+.panel *,
+.well *,
+.list-group-item * {
+color: #CE935F !important;
+}
+a.feature,
+a.bookmark,
+a.achievement,
+a[href="bookmark"],
+a[href*="achievement"] {
+background-color: #F7E5C4 !important;
+color: #CE935F !important;
+}
 		
 @media only screen and (max-width: 1199px) and (min-width: 992px)  {
         .breadcrumb::after {
