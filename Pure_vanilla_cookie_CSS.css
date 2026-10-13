@@ -102,8 +102,8 @@ color: #CE935F !important;}
 .alert-danger {
 background: #e9bb68 !important;
 color: #CE935F !important;}
-.alert-success e9bb68
-background: #F0D298 !important;
+.alert-success{
+    background: #F0D298 !important;
 color: #CE935F !important;}
 
 .progress-bar {
